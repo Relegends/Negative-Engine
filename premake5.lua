@@ -21,7 +21,7 @@ project "NegativeEngine"
 
 	includedirs
 	{
-		
+		"%{prj.name}/vendor/spdlog/include"
 	}
 
 	filter "system:windows"
@@ -68,6 +68,7 @@ project "SandBox"
 
 	includedirs
 	{
+		"%{prj.name}/vendor/spdlog/include",
 		"NegativeEngine/src"
 	}
 
