@@ -1,3 +1,17 @@
+# Binaries
+bin/
+bin-int/
+
+# Files
+*.log
+
+# Visual Studio files and folder
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
 # Prerequisites
 *.d
 

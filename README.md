@@ -1,2 +1,2 @@
 # Negative-Engine
-Design and implementation of a basic render engine architecture.
+Design an implementation of a basic render engine architecture.
