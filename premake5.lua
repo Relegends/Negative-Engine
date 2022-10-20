@@ -68,7 +68,7 @@ project "SandBox"
 
 	includedirs
 	{
-		"%{prj.name}/vendor/spdlog/include",
+		"NegativeEngine/vendor/spdlog/include",
 		"NegativeEngine/src"
 	}
 
